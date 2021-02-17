@@ -1,7 +1,7 @@
 
 {
   "name": "Filter Bot",
-  "description": "Telegram's sassiest group filter. Modular Telegram group filter bot!",
+  "description": "Official Telegram group filter bot! Of (Cinemapranthanmar)[t.me/cinemapranthanmaar]",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/NO-ONE-KN0WS-ME/Filterbot",
+  "repository": "https://github.com/Sh-Jil/Filterbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,19 +21,19 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "861055237"
+      "value": "727037917"
     },
     "START_PHOTTO": {
       "description": "Telegraph img url For Start Cmd",
-      "value": ""
+      "value": "https://telegra.ph/file/0aa1618b5d2761581ebe8.jpg"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "No_OnE_Kn0wS_Me"
+      "value": "shijilraj"
     },
     "OWNER_NAME": {
       "description": "Your name",
-      "value": "Hitsuka"
+      "value": "Shijil"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -57,7 +57,7 @@
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "80954677 861055237"
+      "value": "80954677 861055237 727037917"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
